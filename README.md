@@ -1,3 +1,17 @@
+# Cuddling With Knives submission
+
+*The following is my very best to give an apt timeline and summary of our progress. If any questions arise, please talk to me, Travis.*
+*I'll try elaborate wherever necessary.*
+---
+The following is a submission to the 2021 Water Security Hackathon hosted by the University of Newcastle and Hunter Water. 
+The team consisted of five members; Irene L., Matthew H., Michael G., Indy R., and Travis E. 
+
+The goal of this document is to explain and help understand how we approached this challenge and decided to go about solving it.
+Overall, it was decided that effective preemptive solutions were best, compared to the already existing solutions; We should worry
+about drough before it being upon us, saving water now and having it available later. 
+
+
+
 ## Notes taken during meetings / Ideas and though processes
 
 ---
@@ -72,6 +86,16 @@
         * Water visualisation
     * *Pivot to energy consumption*
 
+* **Sensor feasibility**
+    * *(water proof) temperature changing i.e. anywhere water flows*
+    * *touch sensitivity i.e. on taps*
+    * *moisture sensitivity i.e. sprinklers or hoses partnered with reverse extrapolation*
+    * *vibration detection i.e. as pipes are running with water they release small vibrations*
+    * *sensor examples:*
+        * DS18B20 for temp (<$1 each unit per 500 units)
+        * esp8266   (<$7 per unit)
+        * rechargable batteries, 10+ years  (varying prices, usu. <$1 per unit)
+        * potential voltometer (for battery charge checking) (depends on monitary investment)
 
 bom.gov.aubom.gov.au
 Previous droughts
