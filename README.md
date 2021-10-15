@@ -7,9 +7,29 @@ The following is a submission to the 2021 Water Security Hackathon hosted by the
 The team consisted of five members; Irene L., Matthew H., Michael G., Indy R., and Travis E. 
 
 The goal of this document is to explain and help understand how we approached this challenge and decided to go about solving it.
-Overall, it was decided that effective preemptive solutions were best, compared to the already existing solutions; We should worry
-about drough before it being upon us, saving water now and having it available later. 
+Overall, it was decided that effective education on preemptive solutions were best, compared to the already existing solutions; 
+We should worry about drought before it being upon us, saving water now and having it available later.
 
+Effective education can be difficult, especially in regards to something not frequently thought over such as water, so practical 
+demonstration and encouragement through reward are methods we found to make the most sense, and have the highest potential effect 
+on all that use our solution. This includes monitary reward (coupons, showing money saved, insentives similar to the Dine & Discover 
+vouchers), visualistion of water and money saved (see the [Ubuntu donations page, and how it shows what your donation can afford](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)), and your own impact on the economical aspect of water sustainability (such as [Hunter Water's Water Usage Calculator](https://waterusage.hunterwater.com.au/)). The above points are designed to raise the margins of people who become educated and more waterwise through 
+the useage of our solution.
+
+Integration the above points into **one functional app**, partnered with cost-and-energy-efficient household sensors and interaction with water providers 
+and users of our solution, seemed to make the most sense. One app in which you can seek help for saving water, monitor your actual, real 
+time water use, see the water useage around you and reflect on what you've done by saving / wasting water makes the access to and feasability of this simple
+for everyone, the only ancilaree action needed is dependant on the overhead of the project; a decision for Hunter Water is how to help
+people interact with their water useage, such as by providing (access to) sensors which can be used to monitor water as a cost 
+effective and long lasting solution. 
+
+Such sensors have been researched by our team, costing on average less than $9 per unit. Compared to the water saved and lack of
+investment in water purification through said saved water, this single ramshackle example is a perfect example of how our solution 
+proves its use when partnered with Hunter Water.
+
+This app, coined **Love Water** by our team, is approachable, to prove it we have provided a link during our presentation to our [mockup app](https://personal-0wc4x8fv.outsystemscloud.com/LoveWater/)
+showing that anyone can use it and understand it. This approachability is again increasing the margins of people affected and educated 
+on waterwise solutions 
 
 
 ## Notes taken during meetings / Ideas and though processes
