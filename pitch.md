@@ -1,5 +1,6 @@
 1- Intro
 https://personal-0wc4x8fv.outsystemscloud.com/LoveWater/
+
 slide
 
 2- The Love Water solution, to keep with an existing name.
@@ -62,7 +63,8 @@ through rewards and displays of the good you're doing; Coupons and rewards for p
 people to further develop healthier water habits. 
 
 Our team has researched examples of such sensors, from water and moisture to temperature and vibration,
-any sensor system being on average $10. New and Old developments and buildings can have these installed, 
+any sensor system being on average $10 and in mass production closing in towards $2. New and Old developments
+ and buildings can have these installed, 
 due to the large variety of sensors that already exist.
 
 Each sensor would work in tandem, the mesh network of different sensors interacting with each other 
